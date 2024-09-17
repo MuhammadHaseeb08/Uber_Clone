@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-   
+   <div>
       <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-    
+    </divs>
   <br />
 
   <div>
